@@ -1,0 +1,64 @@
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\appsettings.json
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.exe
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.deps.json
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.runtimeconfig.json
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.dll
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.pdb
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.csproj.AssemblyReference.cache
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.AssemblyInfoInputs.cache
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.AssemblyInfo.cs
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.csproj.CoreCompileInputs.cache
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets\msbuild.CityInfo.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets\msbuild.build.CityInfo.API.props
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CityInfo.API.props
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CityInfo.API.props
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\scopedcss\bundle\CityInfo.API.styles.css
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.csproj.CopyComplete
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.dll
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\refint\CityInfo.API.dll
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.pdb
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.genruntimeconfig.cache
+D:\Online Courses\2023\PluralSight\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\ref\CityInfo.API.dll
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\appsettings.json
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.exe
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.deps.json
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.runtimeconfig.json
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.dll
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.pdb
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.csproj.AssemblyReference.cache
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.AssemblyInfoInputs.cache
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.AssemblyInfo.cs
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets\msbuild.CityInfo.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets\msbuild.build.CityInfo.API.props
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CityInfo.API.props
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CityInfo.API.props
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\scopedcss\bundle\CityInfo.API.styles.css
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.csproj.CopyComplete
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.dll
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\refint\CityInfo.API.dll
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.pdb
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.genruntimeconfig.cache
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\obj\Debug\net6.0\ref\CityInfo.API.dll
