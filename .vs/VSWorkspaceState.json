@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\CityInfo",
-    "\\CityInfo\\CityInfo.API",
-    "\\CityInfo\\CityInfo.API\\Controllers"
+    ""
   ],
-  "SelectedNode": "\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
+  "SelectedNode": "\\CityInfo.sln",
   "PreviewInSolutionExplorer": false
 }
