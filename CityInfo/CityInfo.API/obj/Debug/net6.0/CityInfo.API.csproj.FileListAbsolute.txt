@@ -110,3 +110,5 @@ C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web AP
 C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\TD\OneDrive - Expolanka Holdings PLC\ASP.NET CORE\ASP.NET Core 6 Web API Fundamentals\ASP.NET Core Web API\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.xml

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "beCSoJd5IV4dLsvmL+a9q4pBBFXaVEnVcyX23Hcg3am/7b5O3BPkkOuiGbUKF8KjnyVjUNx8/TLK7RD/pqwc6Q==",
+  "dgSpecHash": "SSqGgOpM5PjOtiVsQ571pC8SFZYRj7At2nJu4ldttaYHA5Pdg9UkgbTiVULK7VD7Ovm9q+kubKWjiIM+UasqIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\TD\\OneDrive - Expolanka Holdings PLC\\ASP.NET CORE\\ASP.NET Core 6 Web API Fundamentals\\ASP.NET Core Web API\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\TD\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\TD\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
     "C:\\Users\\TD\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.2\\microsoft.aspnetcore.jsonpatch.7.0.2.nupkg.sha512",
+    "C:\\Users\\TD\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\TD\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\TD\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\TD\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
