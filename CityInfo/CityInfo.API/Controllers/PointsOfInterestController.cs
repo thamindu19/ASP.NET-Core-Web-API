@@ -317,7 +317,7 @@ namespace CityInfo.API.Controllers
             var pointOfInterestToPatch = _mapper.Map<PointOfInterestForUpdateDto>(
                 pointOfInterestEntity);
 
-            patchDocument.ApplyTo(pointOfInterestToPatch, ModelState);
+            // patchDocument.ApplyTo(pointOfInterestToPatch, ModelState);
 
             if (!ModelState.IsValid)
             {
@@ -351,7 +351,7 @@ namespace CityInfo.API.Controllers
                 return NotFound();
             }
 
-            _cityInfoRepository.DeletePointOfInterest(pointOfInterestEntity);
+            // _cityInfoRepository.DeletePointOfInterest(pointOfInterestEntity);
             await _cityInfoRepository.SaveChangesAsync();
 
             _mailService.Send(
